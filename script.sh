@@ -6,4 +6,5 @@ then
     git commit-tree "$@";
 else
     git commit-tree "$@";
-fi' HEAD
+fi' HEAD 
+//
